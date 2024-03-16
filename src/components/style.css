@@ -1,0 +1,31 @@
+.button {
+  background-color: #050c09; /* Green */
+  color: white;
+  padding: 15px 30px;
+  text-align: center;
+  display: inline-block;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 30px;
+}
+
+.base {
+  background-color: #f7f7f7;
+  height: 50%;
+  width: 100%;
+  opacity: 0.85;
+  border-radius: 20px;
+  transition: height 3s;
+  transition-delay: 1s;
+}
+
+.text {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 40px;
+  font-weight: bold;
+  color: #141010d7;
+  padding: 60px;
+  border: 15px;
+  display: flex;
+  justify-content: center;
+}
